@@ -1,16 +1,42 @@
-## Hi there 👋
+<h2>Hi 👋, I'm Nishant Kadu</h2>
 
-<!--
-**Nishant0225/Nishant0225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p >
+  💻 Web Developer | Python • Flask • Django <br>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+- Backend-focused web developer with strong Python skills  
+- Build secure, responsive, and scalable web applications  
+- Interested in real-world problem solving & clean code  
+
+---
+
+### 🛠 Skills
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,flask,js,html,css,bootstrap,tailwind,sqlite,mysql,git,github" />
+</p>
+
+---
+
+### 🚀 Featured Work
+- 🏦 **Bank Management System (Flask)**  
+- 🛒 **E-Commerce Website (Django)**  
+- 🏬 **iStoreX (Django)**  
+- 🤖 **SENSAI – Career Intelligence Web App**
+
+---
+
+### 📫 Connect
+<p>
+  <a href="https://github.com/Nishant0225">
+    <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white">
+  </a>
+  <a href="mailto:nishantkadu7020@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com">
+    <img src="https://www.linkedin.com/in/nishantkadu7020?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
+  </a>
+</p>
