@@ -20,11 +20,13 @@
 
 ---
 
-## 🔥 My GitHub Stats
+<h2 align="center">🔥 My GitHub Stats</h2>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nishant0225&theme=dark)
-
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Nishant0225&theme=dark" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nishant02251&show_icons=true&theme=dark" />
+</p>
 
 ---
 
