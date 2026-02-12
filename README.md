@@ -20,6 +20,14 @@
 
 ---
 
+## 🔥 My GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=nishant0225&theme=dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishant0225&show_icons=true&theme=dark)
+
+---
+
 ### 🚀 Featured Work
 - 🏦 **Bank Management System (Flask)**  
 - 🛒 **E-Commerce Website (Django)**  
