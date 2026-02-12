@@ -47,5 +47,3 @@
   </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=nishant0225&color=blue)
-
